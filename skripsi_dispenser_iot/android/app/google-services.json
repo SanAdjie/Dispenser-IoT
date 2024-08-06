@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "12309150803",
+    "firebase_url": "https://dispenser-iot-225c2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dispenser-iot-225c2",
+    "storage_bucket": "dispenser-iot-225c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12309150803:android:fc38d06d49b9f6c13f5aa6",
+        "android_client_info": {
+          "package_name": "com.example.skripsi_dispenser_iot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhAQokXYthad2RTwav0F1RvzpXOlREpk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
